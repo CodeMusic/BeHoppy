@@ -176,15 +176,3 @@ Your AI-linked task and mood tracker. Feeds emotional data into Be Hoppy! and Fl
 🧁 License
 
 MIT License — hop freely, share widely. 🐰✨
-
----
-
-✅ You can now copy this into your `README.md` file on GitHub.  
-Let me know if you’d like a matching `docs/` folder with:
-
-- `config.example.json`  
-- Flopsy's `flopsy.bhp` template  
-- A scene/animation builder reference  
-- A logo banner or QR for sharing
-
-Let’s hop this project into the stars 🚀🐣🐧🐬
